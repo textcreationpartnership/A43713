@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hagnelion jechidatho ruahh turak Jehovah ehhad. Or, Eye-salve recommended to the world in a short essay, occasion'd by the sight of a discourse set forth since the Kings injunctions, call'd, Some considerations concerning the Trinity.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43713</idno>
+            <idno type="STC">Wing H190A</idno>
+            <idno type="STC">ESTC R221262</idno>
+            <idno type="EEBO-CITATION">99832596</idno>
+            <idno type="PROQUEST">99832596</idno>
+            <idno type="VID">37070</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37070)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2146:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hagnelion jechidatho ruahh turak Jehovah ehhad. Or, Eye-salve recommended to the world in a short essay, occasion'd by the sight of a discourse set forth since the Kings injunctions, call'd, Some considerations concerning the Trinity.</title>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf contains a postscript.</note>
+                  <note>Reproduction of the original in Dr. Williams' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gastrell, Francis, 1662-1725. --  Some considerations concerning the Trinity --  Controversial literature --  Early works to 1800.</term>
+               <term>Trinity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37070:1" rendition="simple:additions"/>
+            <p>Hagnelion <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> Jechidatho Ruahh Turak Jehovah Ehhad.</p>
+            <p>OR, EYE-SALVE, <hi>Recommended to the World in a Short Eſſay,</hi> Occaſion'd by the ſight of a Diſcourſe ſet forth Since the Kings Injunctions, CALL'D, Some CONSIDERATIONS CONCERNING THE TRINITY.</p>
+            <q>
+               <bibl>Pſ. 8. 2.</bibl>
+               <p>
+                  <hi>Out of the Mouths of Babes, and Sucklings haſt thou ordain'd ſtrength, becauſe of thy Enemies, that thou mayſt ſtill the Enemy, and the avenger.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1696.</p>
+         </div>
+         <div type="author_to_his_book">
+            <pb facs="tcp:37070:2"/>
+            <pb facs="tcp:37070:2"/>
+            <head>The Authour TO His Book on the Holy TRINITY.</head>
+            <p>MY <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a moſt ſad and lamentable Conſideration it is, on which I can neither think, Speak, or write without great Concern, and Grief of Heart, that the preſent age being fill'd with Controverſie about no leſs a matter than the Holy <hi>Trinity</hi> it ſelf, the greateſt Divines in the Church ſhould be miſtaken, as they are, in the moſt fundamentall Article of the Chriſtian Faith, the Profeſſion, and Belief of which is formally, and eſſentially neceſſary to Bap<g ref="char:EOLhyphen"/>tiſme, to be Adminiſter'd always in the Name of the Father, of the Son, and of the Holy Ghoſt by the ſpecial Command, and Order of Chriſt himſelf, the great Apoſtle of our Profeſſion; and that the Church ſhould thereby be fill'd with Scandal as it is, not only to the Confirming of <hi>Deiſts,</hi> and <hi>Arians</hi> in their wick<g ref="char:EOLhyphen"/>neſs, and Hereſy, but alſo to the turning aſide of God's People from the right way, who ſeeing their Leaders Conteſting ſo hotly with each other, as they do, about the very ſprings of all Divinity, and Religion, cannot therefore but waver, and be brought to doubt of the Verity, and <hi>Sacro-Sanctitie</hi> thereof. Surely, to be fear'd it is, that Chriſtendom is even now call'd to an Account and Recconning for this, and I am tempted, methinks, upon it, with Jeſus <hi>Ananai</hi> in <hi>Joſephus,</hi> to fill the ſtreets of our Citys with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for it. For what can be the Conſequence, and Effect of ſuch great Miſtake, but that our Bleſſed Saviour (ſo little Faith being found in the Land) ſhould come at laſt in Judgment againſt us, and that our <hi>Jeruſalem</hi> ſhould be deſtroy'd? Is there any Remedy or Prevention for ſo great an Evil? There is one only, that the Miſtake be rectify'd. Wherefore, I tell Thee, and Tell it Thou agen to all that read thee, that the wrapping up the Doctrine of the Holy Trinity, which God hath reveal'd, and the Church in her Holy Creeds ſufficiently Explain'd, in the Clowd of Miſteriousneſs, has been the cauſe of this Evil, it being a Papiſtical Doctrine, which ſerves only, as it has been made uſe of, to cover over another Error, as bad, or worſe, that of <hi>Tranſſubſtantiation.</hi> Muſt we look on now, and ſuffer this? let thoſe, who are ſo Earneſt to bear up the Grandeur of the Church, more then Gods Holy Truths, making Religion to be a <hi>Scala ad Eminentiam,</hi> inſtead of a <hi>Scala Coeli,</hi> Conſider of it. I, for my part,
+<pb facs="tcp:37070:3"/>
+for the Truth's ſake chooſe rather to take up the Croſs of Chriſt, as a Donative of his, who took it up for me firſt, that I might obtain Eternal Life, and be Num<g ref="char:EOLhyphen"/>ber'd amongſt thoſe bleſſed ones, who, having their Reward in Heaven, ſhall for ever praiſe him. Go therefore, My little Book, into the world dreadleſs, (fearing neither Kings, nor Princes; Pope, nor Cardinals; Arch-Biſhops; nor Biſhops; Conclave, nor Sanedrim,) and carry thy <hi>Eye-Salve</hi> to them all, telling them, it's the Counſel of him, who is King of Kings, and Lord of Lords, to anoint their Eyes with it, that they may See. Go, and God Bleſs thee with good Succeſs. So prayeth he, who beleiveth a Trinity in <g ref="char:V">Ʋ</g>nity, and <g ref="char:V">Ʋ</g>nity in Trinity; but does not believe that Trinity Is <g ref="char:V">Ʋ</g>nity, or that <g ref="char:V">Ʋ</g>nity is Trinity; that is, Believes three Perſons to be one God, ſo is no Tritheita; that Three Perſons are one Perſon, cannot Believe, ſo, is no Sabellian.</p>
+            <closer>
+               <signed>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:37070:3"/>
+            <head>THESE Three are One. OR, <hi>A Diſtinction of Perſons in the Trinity, yet in <g ref="char:V">Ʋ</g>nity, cleerly, tho' briefly, aſſerted.</hi>
+            </head>
+            <p>HATH this Church, the Church of <hi>England,</hi> at this Day need of <hi>Eye-Salve?</hi> it appears by the many Errors, concerning the <hi>Tri<g ref="char:EOLhyphen"/>nity,</hi> which go abroad in Print, that it hath: yea, that it hath need of more Epiſtles yet from him who walks betwixt the Can<g ref="char:EOLhyphen"/>dle-Sticks, and holds the Seven Stars in his right hand. Wherefore, choo<g ref="char:EOLhyphen"/>ſing to be under <hi>Hherem</hi> rather than Suffer the Truth to fail, for <hi>Sion</hi>'s ſake I ſhall not hold my Peace. Once have I written, and twice will I do it, making only this Apology for ſaying ſo little on a Subject controverted ſo much, that the leſs is ſaid of it, if it be enough, it is ſo much the better. So, <hi>Aspirante Spiritu Sancto,</hi> into the Deep I lanch forth, craving leave, in Or<g ref="char:EOLhyphen"/>der to what I ſhall ſay, to premiſe this little,</p>
+            <p>That, as I do, and muſt grant, that there is but One God, which we are as ſure of, as that there is but one Sun to rule the Day, and One Moon to give light in the Night; So, it be granted me likewiſe, that there were two more, before the Worlds were made, what ever we may take 'em to be, <hi>WITH</hi> THIS ONE GOD.</p>
+            <p>This will be granted me, I preſume, by all, becauſe he that denies it, owns not Revelation, and 'tis Confeſt by the <hi>Arrian.</hi> So that, The Queſtions to be regarded by us are, whether he, who is ſaid to be begotten, the Other, who is ſaid to proceed, in Scripture, from the One God, be truly, and properly, each of 'em, Themſelves God? Further, whither theſe Two are, together with him, who is call'd in Scripture the Father, THE ONE GOD, or no?</p>
+            <p>What, (to let go <hi>Socinus,)</hi> does the <hi>Arrian</hi> ſay to this? He, Poor Man, (I call him ſo, becauſe he's a follower of <hi>Ebion,)</hi> denies, it utterly, yet in my Eye, not without reaſon, becauſe of the Scandal that's given him. For, he knows as well as any man, that to ſay, that Three Diſtinct Infinites are one Single Infinite, as he is told, Implies, and is falſe; that, to ſay, a Mode,
+<pb n="2" facs="tcp:37070:4"/>
+a property, or Faculty can Conſtitute a Diſtinct Perſon, as he's told likewiſe, Obtrudes on him an Impoſſible Notion. He ſays therefore, The Son, and the Holy Ghoſt cannot be God, which, we are ſure, is falſe if the Holy Scriptures be true.</p>
+            <p>What next does the Authour of the Conſiderations, mention'd in the Title-Page, Say? He likewiſe, ſeeing the ſame Abſurdities as the <hi>Arian</hi> doth, and very well perceiving the Son, and Holy Spirit's Characters in Scripture, Concludes, becauſe he dares not go againſt his Creeds and Litany, that they are Perſons; but that they are not ſo diſtinct as Three Angels are, <hi>&amp;c.</hi> No; Saith he, it's an Impoſſible thing this.</p>
+            <p>What, laſtly, ſay I now? truely, what he averr's I cannot poſſibly grant him. Here, my Author wants Eye-Salve. Conſequently, in Oppoſition to what he Contends for ſo Earneſtly, as if 'twere the Faith once deliver'd to the Saints, I lay down this for Truth.</p>
+            <p>Firſt, that the Father Son and Holy Ghoſt are Perſons, and that, as Di<g ref="char:EOLhyphen"/>ſtinct as three Angels Perſons, or as the Perſons of <hi>Peter, James,</hi> and <hi>John,</hi> are. Secondly, That the Son, and Holy Ghoſt (Perſons as diſtinct as I've Expreſs'd 'em to be) are, in the Concrete, truely, and properly, God, and that each of 'em is Infinite. Thirdly, Forasmuch as the Godhead, in the Abſtract, is, and can be but One, That the Son, and the Holy Ghoſt (their Perſonal Diſtinction notwithſtanding,) are, together with the Father, ONE, and the SAME GOD.</p>
+            <p>Will ſome ſay, (perhaps ſtartling) is this the Truth? I anſwer that 'tis for certain the Miſtery, and muſt be maintain'd, if any thing may be done, to Convince our Modern <hi>Arians,</hi> who are ſo rooted, and Confirm'd in their Misbeleife, that 'tis hard to move 'em; in regard they are ſo much poiſon'd by that Miſcreant <hi>Bernardin: Odhinus,</hi> the Authour of MO-CHRI MA, call'd ſo amongſt his Freinds, but ſet out under the Name of his Labyrinths; as alſo by that Spawn of his lately ſet out by an <hi>Anonym,</hi> who wrote Notes on the Creed of St. <hi>Athanaſius;</hi> which by the way, is not, as, ſome would have it to be, falſly ſo call'd, but truely; witneſs that <hi>Arian,</hi> who wrote that Peſtiferous Sheet, himſelf: he <hi>(viz.)</hi> tells us that the <hi>Greeks</hi> (meaning <hi>Arian</hi> Biſhops, no Queſtion,) ſaid, that the Holy Father was drunk when he made his Creed, (then that he made it is plain,) Quoting for it <hi>Gennadius</hi> Biſhop of <hi>Conſtantinople</hi> in his <hi>Catul. Illuſtr. vir. per <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Schol. A.</hi> which <hi>Gennadius</hi> lived in the next Century after the Death of <hi>Athanaſius.</hi>
+            </p>
+            <p>It will be Objected here, muſt we then Maintain a Subſtantial Trinity? diſtinct Perſons, we all Know, are diſtinct Intelligent Subſtances, and may we ſay, they are one Subſtance agen? here's the Riddle, here's the Knot; is it to be unty'd by us? Yes, ſay I. For the Nature of Spiritual Sub<g ref="char:EOLhyphen"/>ſtances is ſuch, that, if they are Intimately in Unity, they may truly be ſaid to be <hi>
+                  <g ref="char:V">Ʋ</g>nius Subſtantiae,</hi> and are, ſure enough, <hi>
+                  <g ref="char:V">Ʋ</g>num Totum Spirituale.</hi> If Spirit, Soul, and Body, for being in Unity, are one Individual Man, why ſhould not the Perſons in the Holy Trinity, being much leſs Different from each other, as all will acknowledge, than Spirit, and Body are, be One Indi<g ref="char:EOLhyphen"/>vidual God?</p>
+            <p>
+               <pb n="3" facs="tcp:37070:4"/>
+Surely, Dr. <hi>Sherlock,</hi> the Reverend Dean of St. <hi>Pauls,</hi> in that he aſſert's a Subſtantial Trinity, is in the Right; what he is wrong in, is this; that he aſſerts the three Perſons in the Trinity to be three DISTINCT INFINITES. For herein he is falſe, the Difference is ſo wide, that it Conſtitutes <hi>Tri<g ref="char:EOLhyphen"/>theiſm.</hi>
+            </p>
+            <p>For my part, I deny Abſolutely, that they are three DISTINCT Infinites, yet that they are each of 'em Infinite, I as poſitively affirm. Is it a Con<g ref="char:EOLhyphen"/>tradiction this? No ſuch matter. St. <hi>Athanaſius</hi> tells us, that the Godhead of the three Perſons is but One, and that the Son, and Holy Ghoſt, are <hi>Co,</hi> that is to ſay, WITH GOD: Here is Diſtinction<g ref="char:punc">▪</g> then plainly, how can they be With God elſe? but then, he tells us alſo, that they are Equal with the Father: How, I pray, may this be? he ſays, for having the Father's Glory: So alſo that they are Co-eternal; how agen? for having he ſays, the Eternal Majeſty of the Father: Is not this plain? ſurely, granting the Unity, (that the Son is begotten in Unity; that the Holy Ghoſt Pro<g ref="char:EOLhyphen"/>ceeded in Unity with the Fathers Glory, and Majeſty,) I do not ſee how it is poſſible they ſhould not be God Themſelves, and the Same God, ſeeing that each of 'em is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> cleerly; for, what, I pray, is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>? It is, if we take the word, as the <hi>Nicene</hi> Fathers, (not as <hi>Paulus Saemoſa<g ref="char:EOLhyphen"/>tenus)</hi> underſtood it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; which is as much as, Another Perſon having the Unbegotten Subſtance of the Father Undivide<g ref="char:EOLhyphen"/>ly, or, having the ſame Subſtance, which the Father hath, together with his Own.</p>
+            <p>What's the ſequel of all this? is it not, that they are, after the ſame Manner, Co-Infinite too, as they are Co-Eternal, and Co-Equal? ſurely Yes. Therefore, ſay I, The Father is Infinite: The Son is Infinite: And the Holy Ghoſt is Infinite: And yet there are not three Infinites, but One Infinite. The reaſon is, becauſe they are all three Infinite, not by ſundry, or diverſe Infinities, peculiar to each Perſon One; but, by One, and the ſame Infinity, Common to 'em All.</p>
+            <p>The Convocation at <hi>Oxford</hi> ſhould have taken Notice of This, when they Iſſued out their Decree irreſpectively to what is ſuggeſted. Had they ſo done, they might have Eſcaped the Cenſure of thoſe, who ſay, they truſted not their own Judgments in the ſence of their Creeds, but Abetted only the Hypotheſis of a Reverend writer, whoſe Learned Book no Man need be at the pains to Anſwer, becauſe he has Anſwer'd what he himſelf writ, ſolving the Miſtery at laſt by Modes, whereas before he had deter<g ref="char:EOLhyphen"/>min'd it (I wonder it was not Spy'd,) to be altogether unintelligable, and paſt the reach of human Underſtanding. But,</p>
+            <p>To come cloſe the Authour of the Conſiderations, are the three Perſons ſo diſtinct indeed, as three Angels, or, three mens Perſons are? No, ſaith he; take heed of ſaying it, here's a manifeſt Implicat, ſo it's an impoſſible thing, and falſe. Is it ſo? we are undone if it be; but praiſe be to God, it is not ſo. I confeſs, it ſeems a Riddle ſomewhat difficult; but 'tis not ſo difficult, for all that, but it may be Explicated: I ſhall diſtinguiſh there<g ref="char:EOLhyphen"/>fore between a Perſon, and it's <hi>Shechinah.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:37070:5"/>
+What's a Perſon firſt? it is an Intelligent Subſtance, is it not? it is ſo. Is every Angel a Perſon therefore? it is ſurely. And is not a Soul, tho' di<g ref="char:EOLhyphen"/>ſtinct from the Body, a Perſon too? it is likewiſe. Yea, a Soul, tho' ſe<g ref="char:EOLhyphen"/>parate by Death, I aver to be a Compleat Perſon, tho' it be not a Com<g ref="char:EOLhyphen"/>pleat Man. For Man is a Perſon in Unity with Earthly Subſtance; he is <hi>Maden,</hi> or <hi>Man'e,</hi> that's his Root, for which he's call'd Man. Shall we call the Soul, being ſeparate from the Body, but a peice of a Perſon? God forbid. What is wanting to make it a Perſon? is it not Subſtance? is it not Intelligent? It muſt be granted this. A Perſon therefore it muſt needs be, or, we are to ſeek for it's Definition, yea, it is nothing at all.</p>
+            <p>What's a <hi>Shechinah</hi> next? it is that which a Perſon dwells in, is it not? it's the very ſame. For it cometh from <hi>Shachan,</hi> the Engliſh of which is, He Dwelleth, and the Conſtant word it is in Scripture, when the Sub<g ref="char:EOLhyphen"/>lime Myſteries of our Faith are ſpoken of there: yea, if rightly, and well Underſtood, I conceive, it would ſolve all Myſteries clearly. For that which I ſay, I ſhall referr, at preſent, only to the Eighth Chapter of the Proverbs of <hi>Solomon,</hi> where Wisdom, the ſame whom St. <hi>Paul</hi> calls the Wis<g ref="char:EOLhyphen"/>dom of the Father, ſays thus: <hi>Ani Chochmah Shachanti Cnormah,</hi> ('tis a Me<g ref="char:EOLhyphen"/>taphor taken from the Mathematicks, the Hebrew <hi>Gnormah</hi> ſeeming to an<g ref="char:EOLhyphen"/>ſwer <hi>Norma</hi> in the Latine, which ſhews that the Divine Counſel is the Rule of all things made,) I wisdom dwell in Skill; or, (becauſe in the Latine 'tis in <hi>Conſilio,)</hi> I wisdom dwell in Counſel. From which I argue, that by <hi>Shechinah</hi> we are to underſtand the Tabernacle, or Dwelling of a Perſon; in a word, that Subſtance which a Perſon is ſtrictly in Unity with, or, dwells in by an Unitive Tye intimately, that's it's <hi>Shechinah.</hi>
+            </p>
+            <p>What follows hereupon? verily it is that the three Perſons in the Holy Trinity are truely as diſtinct as the Perſons of three Angels: yea, as the Perſons of <hi>Peter, James,</hi> and <hi>John</hi> are, and that theſe laſt differ in this Re<g ref="char:EOLhyphen"/>ſpect, that the Perſons of <hi>Peter, James,</hi> and <hi>John</hi> have diſtinct <hi>Shechinahs,</hi> whereas the Father, Son, and Holy Ghoſt have but one only, Singular, and Com<g ref="char:EOLhyphen"/>mon <hi>Shechinah.</hi> Now applying this Eye-Salve to our Eyes may we not ſee, that <hi>Peter, James</hi> and <hi>John</hi> (being both for Perſon, and <hi>Shechinah</hi> diſtinct) cannot poſ<g ref="char:EOLhyphen"/>ſibly be one man, and yet that the Father, Son, and Holy Ghoſt (tho' as diſtinct Perſons as they) can be one God? ſee it we may plainly, foraſmuch as the Everlaſting Subſtance of the Father, which neither is nor can be Multiply'd, is their common <hi>Shechinah,</hi> for which it can't be otherwiſe. Not otherwiſe? No. For before the worlds were made, there was, as the learn'd Jews ſpeak, but One Place, which they call, with an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Emphaticu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hammakom,</hi> The Place, meaning by it that there was but one <hi>
+                  <g ref="char:V">Ʋ</g>bi,</hi> and that a Repletive <hi>
+                  <g ref="char:V">Ʋ</g>bi</hi> having no diſtinct Rooms, no Apartments for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Perſon to be in. That which follows, Conſequently, is, that a Perſon, if Produced before the Worlds, muſt of neceſſity be in Unity with the Di<g ref="char:EOLunhyphen"/>vine Subſtance, or, which is the ſame thing, in Unity with the Godhead of the fiſt Perſon, or elſe be no where. Is it ſo? then follow it doth again, that if the Unoriginated Subſtance cannot be Enjoy'd <hi>per partes,</hi> that is to ſay, by Parcels, Parts, or Portions, in Regard it is Repletive, and
+<pb n="5" facs="tcp:37070:5"/>
+fixed Subſtance, it muſt be Enjoy'd, if at all, whole, and ſo I affirm't to be, as thereunto directed by St. <hi>Paul.</hi> For ſo he ſpeaking of the Second Perſon, the Son, ſays, in Him dwelt (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <hi>Shachan</hi> are the ſame) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, All the fullneſs of the Godhead, as much as, the whole Godhead of the Father, the will, and Underſtanding only of the Father, which are his own, not the Son's, Excepted. I add the Laſt words, becauſe the Diſtinction is only Perſonal, the Son's Perſon, tho' emerging, in it's begetting, out of the divine Counſel, and will, yet abi<g ref="char:EOLhyphen"/>ding ſtill in his Fathers Subſtance, and Boſom: Not emerging (tho') <hi>per modum Facturae,</hi> or, <hi>Creationis,</hi> which is of things <hi>ad extra,</hi> and belongs to creatures, but <hi>per modum Reſultantiae,</hi> reſulting juſt as the image of a Man's face does from a Mirrour, yet Subſtantially, as if he were his Fathers Ef<g ref="char:EOLhyphen"/>figies, for which he's call'd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the expreſs, and engraven Image of God, himſelf ſaying of himſelf, he that hath ſeen Me hath ſeen the Father.</p>
+            <p>And have we not here found the true Alkaiſt? in my Conceit, we have; for the word is to be Underſtood, without peradventure, Symbollycally only. Gods Subſtance, we may be ſure, is the only Subſtance that may be call'd fix'd. Therefore, with Reverence, may we not ſay, that when God begat his Son, he volatliſed the fix'd, and fix'd the volatliſed agen? It may be ſaid, as it ſeems to me, rationally enough. Lo then! Here's the true Alkaiſt, the true Tree of Life, the leaves of which are for the Healing of the Nations. But, to return; the <hi>Coelum,</hi> or, <hi>Domus Sacro Sanctae Trinitatis</hi> is the Everlaſting <hi>Hammakom,</hi> Place, or <hi>
+                  <g ref="char:V">Ʋ</g>bi,</hi> as aforeſaid, and becauſe that's the Bleſſed Trinity's mutual, Common, <hi>Shechinah,</hi> or, Dwelling, therefore are they, all three, but One only Everlaſting God.</p>
+            <p>That ſuch as this was the ſence of the Ancient <hi>Homoouſians,</hi> or, <hi>Nicene</hi> Fathers I am very well aſſured, conſequently, that the Primitive Church may bring the preſent Church out of Errour, I ſhall endeavour to prove what I aſſert from Antiquity; that I may do what I ſay, laying down, among multitudes, three clear, and manifeſt Teſtimonies.</p>
+            <p>The firſt ſhall be taken (that I may go upwards,) out of Venerable <hi>Bede,</hi> who in his Eccleſiaſtical Hiſtory, <hi>lib.</hi> 4. <hi>Ch.</hi> 17. tell's us of a Council of Biſhops held here in England about a thouſand years ſince under <hi>Theodorus</hi> Arch-Biſhop of <hi>Canterbury,</hi> and ſays that all of 'em to a Man Unanimouſly agreed, according to the <hi>Nicene</hi> Faith, as his Book will ſhew, <hi>properſonis Con<g ref="char:EOLhyphen"/>ſubſtantiallibus,</hi> and, which is accurately to be obſerv'd, that they declared the Father alone to be <hi>ſine Initio,</hi> and the Son, with the Holy Ghoſt, to be <hi>ante Secula</hi> only. An unbegotten Son, we ſee, was not in their thoughts in the leaſt, but they confeſs'd clearly, to beleive in an only-Begotten Son, as he, who is the word, is call'd by both St. <hi>Johns.</hi> Which accordingly <hi>Pamphilus</hi> the Martyr would never depart from, having It alwaies in his mouth, <hi>viz.</hi> I beleive in the only Begotten Son of God, for which we have the Teſtimony of <hi>Valeſius. Vid. Vales. in Vit. Euſeb.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:37070:6"/>
+The Second Teſtimony ſhall be of <hi>Syneſius</hi> Biſhop of <hi>Cyrene,</hi> who in his Hymn on the Holy Trinity has ſuch words as theſe,</p>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </q>
+            <p>An Intellectual Section, or, Diviſion is ſpoken of here, inferring Diſtinct Perſons, or, Underſtandings plainly: One of which he ſuppoſes to be the Birth of the Fathers Intellect, yet, Remaining in his Spiritual Boſom, to wit, the Son; the Other, <hi>viz.</hi> the Holy Ghoſt to be a ſubſtantial <hi>Spent,</hi> or <hi>Aporrhaea,</hi> as of a precious Oyntment filling All Room, All Place, yet, abiding ſtill in the great Name, even as the Scent doth in the Oyntment from which it flow's. Made good in both theſe is the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of <hi>Syneſius;</hi> the Two Perſons, conſider'd as diſtinct, being ſeparated from the firſt, but conſider'd as Con-Subſtantial, ſtill, or, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, yet, undi<g ref="char:EOLhyphen"/>vided. Here then, Firſt, we have <hi>Hagneliôn,</hi> as in the Title-Page, as much as to ſay, the Moſt Higheſt, <hi>(viz.</hi> for Perſon,) that is the Father. Se<g ref="char:EOLhyphen"/>condly, We have <hi>Jechidathô,</hi> his begotten, or only One, which is the Son in his Fathers Boſom. Thirdly, We have <hi>Ruahh,</hi> or, <hi>Shemen Turak,</hi> which is the Holy Ghoſt, whom the Scriptures call Unction, or, the Oyl of Glad<g ref="char:EOLhyphen"/>neſs, tho' power'd out, yet remaining in the Godhead of the Father alſo. Laſtly, We have <hi>Jehovah Ehhad,</hi> becauſe the Son, and the Holy Ghoſt are uncut off from the Fathers Subſtance, who with him conſequently, are but one Lord. It is for this that St. <hi>Paul</hi> call's the Second Perſon <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Beam of Gods Glory; being as a Beam of the Sun, which, tho' divided, is not cut of from the Body of the Sun.</p>
+            <p>The third Teſtimony is of the Firſt Chriſtian Emperor truely Auguſt, by name <hi>Conſtantine,</hi> who, ſpeaking, in his <hi>Orat.</hi> to the Convent. of Saints, of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (which however the learned think of it, ſeems to be nothing elſe but the Tranſlation of <hi>Mijmro</hi> in the <hi>Targum,)</hi> ſays, that in the Myſtery of the Trinity there is a Disjunction-Conjunction: he means, as the following words ſhew, a Disjunction perform'd Intellectually only, not Locally; or, a Disjunction of Two of the Perſons abiding in Conjunction with the ſubſtance of the Firſt; I ſay, abiding in it, as <hi>Euſebius</hi> ſpeaks, (in which he accords with <hi>Syneſius,)</hi> without Abſciſſion, or, without Disruption.</p>
+            <p>Many more Teſtimonies might I produce to like purpoſe, but I forbear, becauſe I ſuppoſe theſe are enough. Yet forasmuch as many, with <hi>Eraſtus<g ref="char:punc">▪</g>
+               </hi> and <hi>Hobbs,</hi> have more kindneſs for the <hi>Sacro-Sanctity</hi> of human Laws, that they have for the Holy Cannons of the Church, I ſhall add one Teſtimo<g ref="char:EOLhyphen"/>ny more out of the Civil Law. It is in an Edict of <hi>Theodoſius</hi> the Great call'd <hi>Filia ejus Primogenita,</hi> becauſe ſet forth the next year after his Bap<g ref="char:EOLunhyphen"/>tiſme, and it is, <hi>
+                  <g ref="char:V">Ʋ</g>t, ſecundum Apoſtolorum Diſciplinam, Evangelicamque doctri<g ref="char:EOLunhyphen"/>nam Patris, Filij et Spiritus Sancti <g ref="char:V">Ʋ</g>nam Deitatem ſub parili Majeſtate, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſub pia Trinitate credamus.</hi> Is not here <hi>Paritis,</hi> an Equal Majeſty? Is no here, <hi>Pia,</hi> a Godly, or, divine Trinity? and is not here <hi>
+                  <g ref="char:V">Ʋ</g>nica Deitas,</hi> be One Godhead all the while? Let them Judge, who cry out ſo much, 'tis
+<pb facs="tcp:37070:6"/>
+Law, 'tis Law, which is the worſt of the Two, in Earneſt, Outlawry from the Civil <hi>Sanction,</hi> or, <hi>Excommunication</hi> from the Ecleſiaſtical. And,</p>
+            <p>What now, ſince theſe Teſtimonies make out the Myſtery, ſo plainly, the way that I take, can we ſee any reaſon why we ſhould check at the Subordination of the Son to the Father, and of the Holy Ghoſt to the Father, and Son? For my part, I ſee none. What tho' the <hi>Arian</hi> ſays, impudently enough, 'tis a Derogation to one who is God to be an Un<g ref="char:EOLhyphen"/>derling, adding, how come the Son, and Holy Ghoſt to be ſent, to be put in Office, to Miniſter? why is One ſaid to be the Son of the Higheſt, the Other to be the Power of the Higheſt? if we anoint our Eyes with Eye-Salve, we ſhan't be long without an Anſwer to this. For, that Two of the Perſons are Subordinate <hi>(quà</hi> Perſons) we may acknowledge freely, having ſufficient warrant for't from the word of God. For why? The Son himſelf ſays, I came into the world, not to be Miniſter'd unto, but to Miniſter; and, St. <hi>Paul,</hi> ſpeaking of the Goſpel, calls it the Miniſtration of the Spirit. Beſides, we find, that as the Son Miniſters to the Father only becauſe He is of the Father alone; ſo the Holy Ghoſt is call'd, ſome<g ref="char:EOLhyphen"/>times, the Spirit of the Father, ſometimes the Spirit of the Son, becauſe, as he Proceeded from both, ſo he Miniſters to Both. I ſay therefore, that they are capable of Miſſion, and Commiſſion; conſequently, may be put in Office, tho' as in Unity, they are really and truely God. The rea<g ref="char:EOLhyphen"/>ſon of this we may Conceive well enough. For,</p>
+            <p>We are taught by our Saviour himſelf, when we pray, to ſay, Our Fa<g ref="char:EOLhyphen"/>ther which art in Heaven. May we ſay therefore, that the Father's God<g ref="char:EOLhyphen"/>head, which is the place of the Son, and the Holy Ghoſt, is the Place of all Spirits too? for my part, I dare not do't, leaſt I ſhould ſeem to Deify the Devils. With <hi>Aquinas,</hi> rather, <hi>Deitas est immobilis,</hi> ſay I; for where it is now, it ever was, will be, and Is immovably; of the God<g ref="char:EOLhyphen"/>head there is no going forth, it is Quieſcence, it is Everlaſting Sabbath. The <hi>Totſaoth,</hi> or Goings forth are of the Son, and Holy Ghoſt only, and they as they may, ſo they have, as the Prophet ſpeaks of the Son, their Egreſſions, or, Out-goings indeed; and, Bleſſed be God's holy name, we ſee the Effects of all, of their Subordination, I mean, and comings forth in our Redemption, and Sanctification, wherein they Miniſter to the Father for our Salvation. Accordingly I ſhall lay down Two <hi>Querae</hi>'s to be conſider'd of.</p>
+            <p>Whether the Second Perſon, the Son, be not the Illuſtrious Prototype of the Souls of Men, who beget their Like?</p>
+            <p>Whether the Third Perſon, the Holy Ghoſt, be not alſo the Illuſtrious Prototype of Coeleſtial Wights, or, Angels, proceeding, in their Creation, all at once?</p>
+            <p>So it ſeems to be. Firſt, becauſe there are but two ſorts, or kinds of Rational Beings to be call'd Perſons beſides the Trinity. Secondly, becauſe any kind of Perſon, if it be Con-Subſtantial, or, in Unity with the Godhead, muſt needs be God of God.</p>
+            <p>
+               <pb facs="tcp:37070:7"/>
+To ſpeak of the Son firſt. If it Be not ſo, I ask, why is he ſaid to be Begotten? why, as <hi>Adam,</hi> is he call'd the Son, and the Image of God? Why, as a nurſe Child, or Foſter-Babe, is he, long before God's Made<g ref="char:EOLhyphen"/>works, ſaid to rejoyce, and to have his delight in the Sons of Men; and, when Incarnate, why did he call men, and women Brothers and Siſters? yea, ſince the Father, and Holy Ghoſt could not ſo be, by reaſon of the Ones Immenſity, the Other's Ubiquity, why is He only Propheſy'd of to be a man, whom a woman, or rather a Virgin ſhould Compaſs? and how could he ſay, I came from the Father into the World, and now I leave the World, and go to the Father? And, what tho' he be as the <hi>Arian</hi> ſays, but the Son of the Higheſt? I can tell him, that he notwithſtanding is moſt High too, yea, as High as the Higheſt; for ſo the Holy Church in her Hymn at the cloſe of the Communion Service Sings, Thou only, O Chriſt, with the Holy Ghoſt, art moſt high; ask we how? She ſays, In the Glory of God the Father. What is't I hear? O Depth of Wisdom! O Abiſſe of Love, tho' faintly, yet, ſomeway Comprehenſible<hi>!</hi> On it, becauſe he that is Gods fellow, (being made man,) is my fellow alſo, my heart Exults, and Re<g ref="char:EOLhyphen"/>joyceth in Hope, that he'l be as kind to me, as to any Sinner elſe, and keep my wretched Soul from Hell. Whether this be true, or no, it ſeems to be a ſuitable, ſweet, raviſhing, and lovely Contemplation; for which, if I had <hi>Solomon</hi>'s Wisdom, I would Compoſe another new Song of Songs, and, as an <hi>Higgajan,</hi> (which comes from <hi>Hagah</hi> mporting <hi>meditari,</hi> and <hi>Elo<g ref="char:EOLhyphen"/>qui</hi> both,) with heart, and Voice ſing it to my Beloved. For, what tho' he came forth from the Father, into the World, ſo, left his Glory behind him for a while, and appeared as a meer Man? 'twas in love to me, and ſuch as I. But, was the Unity diſſolved by it? no, nor did he thereby ceaſe to be God. For the Holy Ghoſt, who is an <hi>
+                  <g ref="char:V">Ʋ</g>biquitary</hi> Spirit in Hea<g ref="char:EOLhyphen"/>ven and in Earth at once, and was <hi>Vinculum, &amp; Nexus <g ref="char:V">Ʋ</g>nitatis,</hi> as the Fa<g ref="char:EOLhyphen"/>thers tell us, came along with him, abiding with the Father at the ſame time. It was by the Overſhadowings of the Holy Ghoſt that the Son was conceived, and from him afterwards he never departed. Now,</p>
+            <p>Next, to the Holy Ghoſt himſelf. He alſo ſeems to me to be the Illuſtrious Prototype of Heavenly Wights, or Angels. Is it ask'd, why? I anſwer, becauſe, as the Son is call'd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Only-begotten one, to di<g ref="char:EOLhyphen"/>ſtinguiſh him from men who are created Sons; ſo is the Holy Ghoſt call'd, with three dictinctive Articles, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The Spirit The Holy of The God, to diſtinguiſh him, as it ſeems to me, from Created Angels, who are call'd by St. <hi>Paul</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> only, and in their na<g ref="char:EOLhyphen"/>ture are ſuch. If ſo it be not, why are they call'd <hi>Ruchoth, i. e.</hi> Spirits, as the Holy Ghoſt is call'd a Spirit? Why are they ſaid to be <hi>Gibbore coa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h,</hi> great in Power, and Strength, as, He the power of the Higheſt? And why <hi>Elohym,</hi> mighty Powers? for ſo are they call'd too, and by this Stratagem, I conceive, <hi>(Sc: fallacia aequivocationis,)</hi> did <hi>Satan</hi> deceive <hi>Eve,</hi> telling her, that She ſhould be like <hi>Elohijm,</hi> meaning by't, like himſelf, and his forlorn Partners, the fall'n <hi>Elohijm,</hi> whereas ſhe thought of none elſe, but <hi>Jeho<g ref="char:EOLhyphen"/>vah</hi>
+               <pb n="9" facs="tcp:37070:7"/>
+               <hi>Elohijm,</hi> counting that ſhe ſhould be more like her God than ſhe was before, ſo by that means was deceived. In ſhort,</p>
+            <p>Whatſoever ſort, or kind of Perſons the Son, and the Holy Ghoſt may be thought to be, they are God for being in Unity with the Divine Sub<g ref="char:EOLhyphen"/>ſtance, by which they have all the Noble, and Supereminent Attributes of the Father, over, and above the Communicable ones, which meer men, and Angels have, and theſe being as the Taches of the Curtains of the Taber<g ref="char:EOLhyphen"/>nacle of the moſt High, they are One moſt High God, together with the Father.</p>
+            <p>And here now I freely profeſs, that if the Papiſts could argue for their <hi>Hypotheſis</hi> of <hi>Tranſubſtantiation</hi> ſo rationally as I have done for this Myſtery of Myſterys, I would not ſeperate, for that at leaſt, from their Commu<g ref="char:EOLhyphen"/>nion. But, tho' I can eaſily conceive, that the Body of Chriſt can be preſent to Beleivers in the Sacrament, <hi>Mediante Spiritu Sancto,</hi> that is to ſay, Spiritually, juſt as he is preſent, as Head, to his Miſtical Body the Church, the Holy Ghoſt dwelling in him, and the Members thereof; for which I except not ſo much againſt the <hi>Lutherans,</hi> who ſay indeed, that the Body is <hi>
+                  <g ref="char:V">Ʋ</g>biquitary,</hi> but ſay withall, 'tis <hi>Supernaturally,</hi> or, <hi>illocally,</hi> as the Holy Ghoſt makes it be: yet, ſince I cannot conceive, how Chriſt's na<g ref="char:EOLhyphen"/>tural Body ſhould be every where, or, in all parts, and places of the Church and be whole, and intire in all ſuch parts, and places, they of the Roman perſwaſion muſt pardon me, if I except againſt Them, notwithſtand<g ref="char:EOLhyphen"/>ing the pretence of Tradition ſo much urg'd for it; and I cannot ſuffici<g ref="char:EOLhyphen"/>ently admire at Mounſier <hi>Malebranch,</hi> for that, having laid down his Excel<g ref="char:EOLhyphen"/>lent Rule, not to grant a full Aſſent to any thing, whilſt Reaſon Checks, yet himſelf, <hi>reluctante ratione,</hi> gives Aſſent to the Doctrine of <hi>Tranſubſtantia<g ref="char:EOLhyphen"/>tion</hi> upon ſuch Tradition as is not Ancient, much leſs Apoſtolical. Is he a Proteſtant in this point? if not, it muſt be Intereſt, or, Fear that ſways him; That Chriſt's Body is preſent in the Sacrament, I ſincerely beleive; 'tis what the Martyrs of our Church, before they ſuffer'd, acknowledged freely, in their Diſputes with <hi>Cox Oglethorp,</hi> &amp;c. yea they ſaid, <hi>Ipſiſſimum corpus Chriſti eſt in Sacrimento Euchariſtiae,</hi> as appears in Dr. <hi>Willet</hi>'s <hi>Centu<g ref="char:EOLhyphen"/>ry</hi>'s, but then they added ſtill, that the <hi>Modus is Spiritualis,</hi> and, is it not true this? it is, and we muſt take heed of ſaying otherwiſe, tho' the Definitions of the Counſil of <hi>Trent</hi> for the <hi>Capernaitical</hi> way, are in no<g ref="char:EOLhyphen"/>wiſe to be allow'd. For, if the Church be the Body of Chriſt, becauſe the Holy Ghoſt is with it, and in it, why ſhould not the bread together with the wine, as the New-Teſtament <hi>Shechinah,</hi> be the Body, One; the other the Blood of Chriſt, for the Holy Ghoſts being with Him, and with the Signs, and Symbols at once? is the Church the Myſtical Living Body of Chriſt, for ſuch reaſon, as Conſiſting of living Wights, living Members? why then ſhould not the Sacrament, after the like manner, be the Myſtical Dead Body of Chriſt, as by liveleſs Elements repreſented? ſuch an <hi>
+                  <g ref="char:V">Ʋ</g>biqui<g ref="char:EOLhyphen"/>ty</hi> of Chriſt's Body if the <hi>Lutherans</hi> are for; ſuch change of the Elements if the Papiſt will agree to, I am heartily with Them, and as the Jews call'd
+<pb n="10" facs="tcp:37070:8"/>
+the Paſchal Lamb the Body, ſo will I call the bread I eat at the Sacrament the Body too, even of Chriſt; (for Myſtically or Spiritually it is ſo,) and, without making every <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of the Father's a <hi>Dogma,</hi> as they of <hi>Rome</hi> do, we may do it well, and truly enough. And,</p>
+            <p>Here I ſhut up, hoping that this Eye-Salve of mine, which for truths ſake, and with perfect Charity I have preſum'd to offer to the world, will be accepted by it, becauſe 'tis wholely Compounded of Scripture, and Anci<g ref="char:EOLhyphen"/>ent Records going no further then Revelation lead's, within which Bounds I've taken care to keep, as my Duty is. For ſecret things belong to the Lord, but things Reveal'd only to us, and our Children; and I humbly ac<g ref="char:EOLhyphen"/>knowledge, Let <hi>Arians</hi> flout at the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as they pleaſe, that the manner of the Son's Generation, and of the Holy Ghoſt's proceeding a <hi>Patre Filioque,</hi> as not reveal'd, are above mine, and, as I beleive, all others Comprehen<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>It is as Uſual as 'tis pious to Conclude Diſcourſes of this kind with Prayer. Therefore, with hearty good wiſhes to all whoſe hands this lit<g ref="char:EOLhyphen"/>tle ſomewhat ſhall fall into, I ſhall do the like, adding this ſhort Prayer following, and Recommending it to the Devotion of ſuch as are diſpoſed to uſe it.</p>
+            <p>O Almighty God, and moſt merciful Father in Jeſus Chriſt, moſt hum<g ref="char:EOLhyphen"/>bly I beſeech thee, for thy Mercys ſake, and for that great lover of Souls ſake, thy Only Begotten Son, in whom thou art well pleaſed, to open the Eyes of all thoſe among us, who have imbib'd falſe Notions of thy moſt Holy Faith, that, all Scandals being removed and caſt out of the Church, and perfect Charity planted in it, <hi>Hereſy,</hi> and <hi>Schiſm</hi> may be put an end to amidſt thy People; and alſo, that Millions of Thouſands, according to the Bleſſing on <hi>Rebecca,</hi> of Jews, Turks, Heathens, Infidels may come into thy Holy Church, and being made One Flock, together with us, Under the One great Shephard of the Sheep, may obtain the End of the Hope of all the Faithful, even the Salvation of their Souls, and, at the laſt Day, riſe out of the duſt, to Sing with Angels, and Saints, everlaſting <hi>Halleluijahs</hi> to Thee, O Holy Father, with thy Son, and the Holy Ghoſt One God, bleſſed for evermore, <hi>Amen.</hi>
+            </p>
+            <list>
+               <head>Theſe Three are One.</head>
+               <item>Father <hi>Jehovah.</hi>
+               </item>
+               <item>Son <hi>Jehovah.</hi>
+               </item>
+               <item>H. Ghost <hi>Jehovah.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Je</hi> is the ſign of a Proper Name, Proper Names are of Perſons, <hi>Hovah</hi> is that Neceſſary Being, which is the Father's Originally; the Son, and Holy Ghoſt are God for being Conſubſtantial, or in Unity with the Sub<g ref="char:EOLhyphen"/>ſtance of the Father, which ſubſtance being but one, they are all Three One God.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb n="11" facs="tcp:37070:8"/>
+            <head>Poſtcript, <hi>Containing a few Items not unworthy Obſervation.</hi>
+            </head>
+            <p>THE Word <hi>Trinitarian</hi> is a Nickname given to the Orthodox by the wretch <hi>Servetus. vid. Sixt. Seneus. Lib.</hi> 8. <hi>p.</hi> 789. It ſeems to come from <hi>Trinitare,</hi> and ſuppoſes Three Perſons to be One Perſon. <hi>Quaere,</hi> whi<g ref="char:EOLhyphen"/>ther <hi>
+                  <g ref="char:V">Ʋ</g>nitarian</hi> be not a word of the ſame ſtamp, ſuppoſing more Perſons, Indefinitely, one Perſon. <hi>videtur quod ſic.</hi> Let the <hi>Arians</hi> conſider this.</p>
+            <p>The word <hi>Existence</hi> not ſuitable, or fit to expreſs God by, becauſe the Godhead is Neceſſary Being, and cauſes has None, whereas, <hi>Existentia in Actualitas Eſſentiae,</hi> as Eſſence, yet Naked, is <hi>Potentialitas Eſſendi.</hi> Neither, <hi>in Divinis,</hi> ſeems fit to be us'd.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with St. <hi>John,</hi> is but the Tranſlation of <hi>Mijmrô</hi> with the <hi>Targumists,</hi> who wrote thus; <hi>Mijmrô daihovah,</hi> as much as the Word which is <hi>Jehovah;</hi> for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the <hi>Syriack,</hi> and <hi>Chaldee</hi> both, is, <hi>Qui eſt;</hi> but <hi>Daihovah,</hi> in read<g ref="char:EOLhyphen"/>ing, they skipt over, whither for Reverence, or ſome other reaſon, we can gueſs only. In compliance, St. <hi>John</hi> does the ſame, writing <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> only, the word <hi>Jehovah,</hi> in <hi>Greek</hi> Letters, being not capable of Pronunciation.</p>
+            <p>
+               <hi>Hammakom,</hi> with the Jewiſh <hi>Doctors,</hi> is the Name of the Godhead con<g ref="char:EOLhyphen"/>ſider'd abſtractly, by which is meant THE Place. It is <hi>
+                  <g ref="char:V">Ʋ</g>bi Repletiour,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or as <hi>Triſmegiſt, Centrum <g ref="char:V">Ʋ</g>bique, ſc. in ſe,</hi> to be Out of which is to be <hi>Nullibi.</hi> In reſpect of its Excelling, or Tranſcendent Greatneſs, the whole world is but as the drop of a Bucket; it Exceeds the powers of Imagination.</p>
+            <p>
+               <hi>Haſhechijnah,</hi> with the Jewiſh Doctrine, is the Name of the Son of God, whoſe <hi>Shechijnah</hi> is not ſingle, out Twofold. 1. The Everlaſting ſubſtance of the Father, in which he is Begotten: Then the Temporal or Bodily Subſtance, in which Conceiv'd by the Holy Ghoſts Overſhadowings. Seen this, <hi>Eſai.</hi> 57. 25. where himſelf ſays, (for 'tis he ſpeaks there, calling himſelf the High, and lofty One, <hi>&amp;c.)</hi> I inhabit <hi>Marôm, vekadoſh,</hi> i. e. Height, and Holineſs, <hi>viz.</hi> of the Father<hi>:</hi> alſo, <hi>êthdachche, uſhepal Ruahh,</hi> (as made Man,) The bow'd-down One, humble of Spirit. Therefore a ſuita<g ref="char:EOLhyphen"/>ble Mediatour betwixt God, and Man, to take Care for the Authority of Gods Law's and to take Care alſo, and to have a Reſpect to Mans Infirmity.</p>
+            <p>Follows an Item to the learn'd; ſo run, that ye may be <hi>Adepts,</hi> 1. <hi>Cor.</hi> 9. 24. And, who is He that may be call'd an <hi>Adept?</hi> One that knows Him, who, to the Confuſion of <hi>Grammar,</hi> is a Paſt, and Future, as well as a preſent Is: who, to the Confuſion of Logick, is an Ineffable <hi>Syllogiſm,</hi>
+               <pb n="12" facs="tcp:37070:9"/>
+without <hi>Major,</hi> and <hi>Minor,</hi> yet has a Medium agreeing to Each: who, to the Confuſion of <hi>Metaphyſicks,</hi> is True Perſonally, Good Perſonally, yet remains but One Subſtantially: who to the Confuſion of <hi>Arithmetick,</hi> is tru<g ref="char:EOLhyphen"/>ly Multiply'd, yet is not to be number'd by Any: who, to the Confuſion of <hi>Mathematicks,</hi> is a Triangle, the Corners of which, like the Ends of the Colures, are to be found no-where; who, to the Glory of Divinity, is Intellectually Three; Three, yet ſtill Himſelf, One, and not Many; the Fa<g ref="char:EOLhyphen"/>ther, Son, and Holy Ghoſt, of whom each is God, and all three the ſame God. Agen,</p>
+            <p>An <hi>Adept</hi> is One, who Beleives in Him, who, tho' Begotten, is without Beginning; is without Beginning, yet Begotten, and has a Father: who, tho' he made All things, which are Made, yet was Made himſelf of that which he Made firſt: who, tho' the very Fountain of life to Men, yet for them dy'd once, and was Buryed: who tho' Always Within, and at Home, was found without, and gon abroad: who, tho' in his Fathers Boſom, as Great as Heaven, was in the womb of a woman, ſmall as an Embryo: who tho' in higheſt Glory, was wrapt up in moſt profound Humility, whoſe Name is God-Man, a Thing heard of but Once, will be agen never, the Neweſt thing of All things call'd New, ſince the Birth of light on the firſt Day of the Creation. Agen,</p>
+            <p>An <hi>Adept</hi> is One, whoſe Eye, tho' he be on Earth, is where the Eyes of Angels are; whoſe Feet have Wings, and are waſht with Milk, and Clean; who Begets with his mouth, Creates by his Example, and his Birth's are Virgin-Souls, being turn'd into the way of life by him, and Righteous: his life is All Prayſe; his Death is ſweet ſleep, being to riſe agen in the Morn; his Duſt as the Odours of the precious Oyntment of old, with which Kings, and Prieſts were Anointed. Here in the <hi>Pſalmiſt Hayh</hi> who is Crown'd with <hi>Aſhre</hi>'s, the Man whom this Honourable Name is to be Given to; for he is an <hi>Adept</hi> truly, and his Name is written in <hi>Liber Tſoar,</hi> among the <hi>Fulgeburt</hi>'s of the Man dearly Belov'd, and ſhine as the Stars of the Morning ſhall he, in the Future ſtanding ſtillneſs, ever making Haſte for Ever to Be, the <hi>Adepts</hi> only End it's ſelf without Concluſion.</p>
+            <closer>To The Father of an Infinite Majeſty, His Honourable, true, and only Son, Alſo the Holy Ghoſt the Comforter Three Perſons, <note place="margin">Buy the Truth, and ſell it not.</note> And One Eternal God Be All Honor, &amp; Glory, <hi>Le-olam Olmijn,</hi> Amen.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
